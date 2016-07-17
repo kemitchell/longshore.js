@@ -1,0 +1,12 @@
+{
+  "name": "prepackage",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/prepackage.js",
+  "license": "MIT",
+  "dependencies": {
+    "run-parallel": "^1.1.6",
+    "tar-stream": "^1.5.2"
+  }
+}
